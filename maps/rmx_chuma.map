@@ -6055,7 +6055,7 @@
 "angle" "-2"
 "targetname" "theexitdoor"
 "speed" "40"
-"sounds" "2"
+"sounds" "4"
 "target" "finallight"
 // brush 0
 {

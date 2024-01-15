@@ -3,6 +3,8 @@
 Map for Copper 1.3 version (recommended download from Lunaran's website)
 http://lunaran.com/copper/download/
 
+Entry for "Remix jam" by fw
+
 ### Author credits
 
 Map name : Bind-ed Disarray
@@ -17,7 +19,7 @@ Testing/bug finding/feedback:
 - AlexUnder.
 
 Special thanks to :
--Karl Casey @ White bat audio for the music.
+Karl Casey @ White bat audio for the music.
 
 Track name: 
 Radiation Storm - Karl Casey (White Bat Audio)
@@ -27,6 +29,12 @@ Radiation Storm - Karl Casey (White Bat Audio)
 For a while i've had ideas of remaking maps in Quake from other games, i've been having this one floating around for a while, remake a Valorant map, while it was challenging, 1:1 recreation was gonna be tough.
 
 What did i do for recreating the map? basically i mapped in Grid 32 with Makkon textures in mind (first time i mapped with Grid 32).
+
+This map left me conflicted with 2 things i'm not usually conflicted: the music track and the name.
+
+The name is "Bind-ed" i added Disarray after listening to my favorite Nexuiz OST track "Disarray", this means confusion, fits perfectly, i thought around 5-6 name ideas but this one stuck "Bind-ed Disarray"
+
+The music originally was one called "Slither" by Darkvine music, i switched to the current and final track and i've been thinking it was way too dark, i was exploring other tracks by Karl Casey but this one stuck.
 
 Map layout is exactly the same as Valorant and i decided to stick with minimalism and keep it with simple.
 
@@ -53,7 +61,7 @@ I HIGHLY recommend playing this map on protocol 999 (i disabled soft bounds), ho
 Excelsior!
 
 ## Special Thanks
-
+- fw (for the map jam)
 - Forte
 - CommonCold
 - RecycledOJ

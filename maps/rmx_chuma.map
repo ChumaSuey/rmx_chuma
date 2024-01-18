@@ -5068,7 +5068,6 @@
 "wait" "-1"
 "angle" "-2"
 "spawnflags" "8"
-"message" "Find the teleporter"
 // brush 0
 {
 ( 3904 3408 124 ) ( 3904 3280 124 ) ( 3904 3280 60 ) techdoor_orng1 [ 1.2246467991473532e-16 -1 0 401 ] [ 0 0 -0.75 45 ] 0 1 1
@@ -6172,7 +6171,6 @@
 "sounds" "2"
 "spawnflags" "8"
 "wait" "-1"
-"message" "Find the teleporter"
 // brush 0
 {
 ( 3904 3408 124 ) ( 3904 3280 124 ) ( 3904 3280 60 ) techdoor_orng1 [ 1.2246467991473532e-16 -1 0 401 ] [ 0 0 -0.75 45 ] 0 1 1

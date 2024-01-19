@@ -19,12 +19,25 @@ Testing/bug finding/feedback:
 - AlexUnder.
 
 Special thanks to :
-Karl Casey @ White bat audio for the music.
+- Karl Casey @ White bat audio for the music.
+- Those who gave me feedback about the original map.
 
 Track name: 
-Radiation Storm - Karl Casey (White Bat Audio)
+Videodrome - Karl Casey (White Bat Audio)
 
-## About the map
+## About the V2 map (original)
+
+While i was making the first version, the feedback i've gotten mostly was about the gameplay, the map was very much open so different paths and approaches could be made but i didn't feel it was straight up fun, it was more of a experimental thing.
+
+So i decided to stick with the formula i love making maps, Run n' gun linear level and... i feel happy with the result.
+
+2 Yellow keycards need to be found to proceed, the secrets are stuck with the Silver keycards.
+
+I decided to change the music keeping it "Dark Synthwave" now with Industrial... thanks White Bat you have an amazing library of copyright free music!
+
+The final area is something i added, since the "Counter spawn" was already bloated to make a 2-shambler fight there.
+
+## About the map (original)
 
 For a while i've had ideas of remaking maps in Quake from other games, i've been having this one floating around for a while, remake a Valorant map, while it was challenging, 1:1 recreation was gonna be tough.
 

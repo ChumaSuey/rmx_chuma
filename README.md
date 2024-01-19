@@ -23,7 +23,8 @@ Special thanks to :
 - Those who gave me feedback about the original map.
 
 Track name: 
-Videodrome - Karl Casey (White Bat Audio)
+Radiation storm - Karl Casey (White Bat Audio)  Original version 
+Videodrome - Karl Casey (White Bat Audio)   V2
 
 ## About the V2 map (original)
 

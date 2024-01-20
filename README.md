@@ -24,20 +24,8 @@ Karl Casey @ White bat audio for the music.
 Track name: 
 Videodrome - Karl Casey (White Bat Audio)
 
-## About the V2 map (original)
 
-While i was making the first version, the feedback i've gotten mostly was about the gameplay, the map was very much open so different paths and approaches could be made but i didn't feel it was straight up fun, it was more of a experimental thing.
-
-So i decided to stick with the formula i love making maps, Run n' gun linear level and... i feel happy with the result.
-
-2 Yellow keycards need to be found to proceed, the secrets are stuck with the Silver keycards.
-
-I decided to change the music keeping it "Dark Synthwave" now with Industrial... thanks White Bat you have an amazing library of copyright free music!
-
-The final area is something i added, since the "Counter spawn" was already bloated to make a 2-shambler fight there.
-
-
-## About the map
+## About the map (the relevant info)
 
 For a while i've had ideas of remaking maps in Quake from other games, i've been having this one floating around for a while, remake a Valorant map, while it was challenging, 1:1 recreation was gonna be tough.
 
@@ -47,19 +35,13 @@ This map left me conflicted with 2 things i'm not usually conflicted: the music 
 
 The name is "Bind-ed" i added Disarray after listening to my favorite Nexuiz OST track "Disarray", this means confusion, fits perfectly, i thought around 5-6 name ideas but this one stuck "Bind-ed Disarray"
 
-The music originally was one called "Slither" by Darkvine music, i switched to the current and final track and i've been thinking it was way too dark, i was exploring other tracks by Karl Casey but this one stuck.
+The music originally was one called "Slither" by Darkvine music, i switched to the current and final track and i've been thinking it was way too dark, i was exploring other tracks by Karl Casey but this one stuck, until i realize the major overhaul of what i called "V2" of the map, where i changed it to the current one.
 
 Map layout is exactly the same as Valorant and i decided to stick with minimalism and keep it with simple.
 
-Differences with Bind are pretty much punctual, just some stairs and altitudes i had to add.
+Differences with Bind are pretty much punctual, "middle" is a zone that has no connection with the other bombsite, and some zones have some altitude where Valorant Bind doesn't, and i've also closed the Hookah area in Valorant.
 
-The map itself does not have any overcomplex features, triggers or such... and i decided to leave the open path and exploration of the map rather than to make it structured per se.
-
-The map can be completed like going from bomb site to bomb site, as simple as that, since there's not much stopping the player from it i recommend going for 100% secrets and kills.
-
-Bomb sites have grenade launchers (how strange heh).
-
-Secrets have micro references to Valorant characters, there are 4 , 3 of them have said references.
+Some Secrets have micro references to Valorant characters.
 
 Map is surrounded by a "skybox" i don't like this practice in the slightest but i think it was needed since Valorant levels are really big and a bit of "realistic scale" of some sort.
 
@@ -69,7 +51,16 @@ Not sure if these open areas can be used by speedrunners in their advantage, hop
 
 Had fun making this map, hope you also enjoy it.
 
-I HIGHLY recommend playing this map on protocol 999 (i disabled soft bounds), hope the jam maps are in protocol 999.
+While i was making the first version, the feedback i've gotten mostly was about the gameplay, the map was very much open so different paths and approaches could be made but i didn't feel it was straight up fun, it was more of a experimental thing.
+
+So i decided to stick with the formula i love making maps, Run n' gun linear level and... i feel happy with the result.
+
+2 Yellow keycards need to be found to proceed, the secrets are stuck with the Silver keycards.
+
+I decided to change the music keeping it "Dark Synthwave" now with Industrial... thanks White Bat you have an amazing library of copyright free music!
+
+The final area is something i added, since the "Counter spawn" was already bloated.
+
 
 Excelsior!
 

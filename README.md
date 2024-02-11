@@ -12,11 +12,13 @@ Map name : Bind-ed Disarray
 Author : Chuma
 Co-Author credits:
 - bmFbr (technical/coding/design/master eldritch entity of Quake programming).
-- Makkon (I give him credit as the artist of the map since i used his textures)
-- Aluna and Yuyi (Being the Moon and Sun like always :v)
+- Makkon (I give him credit as the artist of the map since i used his textures).
+- Aluna and Yuyi (Being the Moon and Sun like always :v).
 Testing/bug finding/feedback:
 - Forte.
 - AlexUnder.
+- Em3raldTig3r.
+- Sodium Chloride.
 
 Special thanks to :
 Karl Casey @ White bat audio for the music.
@@ -82,6 +84,7 @@ Excelsior!
 - New Blood Interactive
 - David's Shack discord
 - Bully squad
+- BonesBlack, Hyrenesun, Rage, Yusdrojas and their communities who are also my friends (special shout out since they are Valorant players).
 
 
 
